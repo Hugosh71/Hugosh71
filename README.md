@@ -1,3 +1,4 @@
+![logo](https://github.com/Hugosh71/Hugosh71/blob/main/gitBanner.png)
 <h1 align="center">Hi 👋, I'm Hugo Fanchini</h1>
 <h3 align="center">A 4th Year Engineering Student & Unity Game Developer</h3>
 
