@@ -8,7 +8,7 @@
 
 * 🌍 I'm based in Paris and Lyon
 
-* 👨‍💻 See my portfolio at [https://hugosh71.github.io](https://hugosh71.github.io)
+* 👨‍💻 See my portfolio at [https://hugo-fanchini.com/](https://hugo-fanchini.com/)
 
 * 📫 You can reach me at **fanchinihugo@yahoo.fr**
 
