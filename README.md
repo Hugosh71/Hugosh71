@@ -1,6 +1,6 @@
 ![logo](https://github.com/Hugosh71/Hugosh71/blob/main/gitBanner.png)
 <h1 align="center">Hi 👋, I'm Hugo Fanchini</h1>
-<h3 align="center">A 5th Year Engineering Student & Unity Game Developer</h3>
+<h3 align="center">An Engineer specialized in Artificial Intelligence</h3>
 
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/dJHyYGjTqNeZalFk6B/giphy.gif">
 
